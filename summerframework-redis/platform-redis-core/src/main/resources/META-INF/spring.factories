@@ -1,3 +1,0 @@
-org.springframework.boot.env.EnvironmentPostProcessor=com.bkjk.platform.redis.ExcludeSpringBootRedisAutoConfigProcessor
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.bkjk.platform.redis.RedisAutoConfiguration
-org.springframework.context.ApplicationContextInitializer=com.bkjk.platform.redis.RedisApplicationContextInitializer
